@@ -1,5 +1,4 @@
 const mongoose = require('mongoose');
-
 const urlDb = 'mongodb://localhost:27017/proyecto-basico-express-movies'
 
 const connect = async () => {
